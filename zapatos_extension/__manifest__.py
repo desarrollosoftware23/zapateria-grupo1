@@ -1,8 +1,8 @@
 {
     'name':'zapatos_extension',
     'version':'1.0',
-    'summary':'Extension corregida de zapatos',
-    'description':'Agregar informacion adicional a zapateria.',
+    'summary':'Actualizacion de zapatos',
+    'description':'Agrega informacion adicional a zapateria.',
     'author':'Mayte Rochina',
     'category':'Sales',
     'license':'LGPL-3',

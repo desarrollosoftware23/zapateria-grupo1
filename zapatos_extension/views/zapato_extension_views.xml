@@ -12,6 +12,7 @@
                 <attribute name="decoration-success">stock &gt;= 30</attribute>
             </xpath>
 
+
             <xpath expr="//group" position="inside">
                 <field name="codigo"/>
                 <field name="marca"/>
